@@ -36,4 +36,5 @@ jobs:
         name: Mala-AI-APK
         path: bin/*.apk
         
+        
           
